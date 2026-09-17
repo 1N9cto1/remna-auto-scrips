@@ -11,4 +11,4 @@
 Запустите скрипт на вашем Linux-сервере (Ubuntu/Debian/RHEL) от имени `root`:
 
 ```bash
-bash <(curl -sSL [https://raw.githubusercontent.com/1N9cto1/remna-auto-scrips/main/deploy.sh](https://raw.githubusercontent.com/ВАШ_НИК/ИМЯ_РЕПОЗИТОРИЯ/main/deploy.sh))
+bash <(curl -sSL [https://raw.githubusercontent.com/1N9cto1/remna-auto-scrips/main/deploy.sh](https://raw.githubusercontent.com/1N9cto1/remna-auto-scrips/main/deploy.sh))
